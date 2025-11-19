@@ -1,0 +1,4 @@
+rules:
+  - id: user-public-repos-min
+    enabled: true
+    minPublicRepos: 3
